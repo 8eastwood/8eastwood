@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @8eastwood
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c# and unity.
-- 💞️ I’m not looking to collaborate on.
 - 📫 How to reach me https://t.me/MattFishborn
 
 <!---
